@@ -1,0 +1,22 @@
+[
+  {
+    "username": "khdfusjv",
+    "password": "12345",
+    "role": "PARENT"
+  },
+  {
+    "username": "serra",
+    "password": "12345",
+    "role": "CHILD",
+    "points": 10,
+    "level": 5,
+    "ratings": [
+      5.0
+    ]
+  },
+  {
+    "username": "aksen",
+    "password": "12345",
+    "role": "PARENT"
+  }
+]

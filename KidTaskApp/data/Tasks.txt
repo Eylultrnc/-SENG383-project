@@ -1,0 +1,14 @@
+[
+  {
+    "taskId": "69831eab-588c-49b9-ab61-9f1a00421a12",
+    "title": "Temizlik",
+    "description": "tell me whyy",
+    "dueDate": "2025-12-15",
+    "points": 10,
+    "assignedTo": "serra",
+    "createdBy": "khdfusjv",
+    "status": "APPROVED",
+    "rating": 5.0,
+    "completedDate": "2025-12-11 10:07:29"
+  }
+]
